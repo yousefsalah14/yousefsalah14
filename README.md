@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **NodeJs , NestJS , ExpressJS**
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring **new technologies to improve my skills.**
+- ❤   Interned at Elsewedy Electric PSP
+- 😍 Currently IT Director at IEEE HSB Overseeing Web and Mobile Track
 
 - 📫 How to reach me **yousefsalah1242003@gmail.com**
 
