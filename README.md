@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJs , NestJS , ExpressJS**
 
-- 💬 Ask me about👨‍💻 As a CS student, I'm constantly learning and exploring **new technologies to improve my skills.**
+- 👨‍💻 As a CS student, I'm constantly learning and exploring **new technologies to improve my skills.**
 
 - 📫 How to reach me **yousefsalah1242003@gmail.com**
 
